@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{D581DD65-2CAF-5232-AA12-CE0E09FC2678}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripts/MenuControl.cs">
+    <Files>
+      <File FileName="Assets/Low Poly Animated Animals/- Scripts/AnimalScripts/WanderScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/Scripts/AdjustPos.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/Scripts/MenuControl.cs" Line="80" Column="5" />
+      <File FileName="../../../../Documents/ballroll_unity/Assets/Scripts/PlayerController.cs" Line="35" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
